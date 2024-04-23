@@ -7,7 +7,7 @@ import IconMessageCircle from '../assets/icons/IconMessageCircle.vue'
 <template>
   <div class="t-w-[5%] custom-hidden t-text-black">
     <div>
-        <div class="t-cursor-pointer t-bg-lightOrange t-h-[68px] t-flex t-flex-col t-justify-center t-items-center t-gap-y-1 t-border-r-2 t-border-brightOrange">
+        <div class="t-cursor-pointer  t-h-[68px] t-flex t-flex-col t-justify-center t-items-center t-gap-y-1 t-border-r-2 t-border-brightOrange">
             <IconMessageCircle />
             <span class="t-text-brightOrange t-font-semibold">Chats</span>
         </div>

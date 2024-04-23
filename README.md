@@ -10,12 +10,9 @@ This template should help get you started developing with Vue 3 in Vite with Tai
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
-## install Node v18.14.0 or v18.16.0 or LTS
+## First Install Node v18.14.0 or v18.16.0 or LTS
 
-## Project Clone
-```
-take clone from github
-```
+## Take Project Clone
 
 ## Project Setup
 
